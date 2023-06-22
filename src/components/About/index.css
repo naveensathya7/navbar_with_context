@@ -1,0 +1,25 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.light-theme {
+  color: #171f46;
+}
+.dark-theme {
+  color: #ffffff;
+}
+.about-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark-theme-container {
+  background-color: #000000;
+}
+.light-theme-container {
+  background-color: #ffffff;
+}
+.about-image {
+  width: 200px;
+  height: 200px;
+}
